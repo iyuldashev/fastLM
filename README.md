@@ -9,4 +9,4 @@ A lightweight, dependency-free LLM inference engine written in C++20.
 - [x] Latency Benchmarking (~28μs overhead)
 
 ## Next Steps
-- Load LLMs
+- Load LMs
